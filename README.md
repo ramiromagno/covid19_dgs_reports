@@ -8,7 +8,7 @@ This repository is an archive of the bulletins and reports issued by the Directo
 
 ### Manifest
 
-For a list of the bulletin and report files included in this archive check the folder `manifest`.
+For the list of the bulletin and report files included in this archive check the file `manifest/manifest.csv`.
 
 ### Source
 

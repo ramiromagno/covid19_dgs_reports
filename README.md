@@ -8,7 +8,7 @@ This repository is an archive of the bulletins and reports issued by the Directo
 
 ### Manifest
 
-For the list of the bulletin and report files included in this archive check the file `manifest/manifest.csv`.
+For the list of the bulletin and report files included in this archive check the file [manifest/manifest.csv](https://github.com/ramiromagno/covid19_dgs_reports/blob/master/manifest/manifest.csv).
 
 ### Source
 

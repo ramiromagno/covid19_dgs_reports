@@ -1,6 +1,6 @@
 ## COVID-19 DGS Reports
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ramiromagno/covid19_dgs_reports)
+![GitHub last commit](https://img.shields.io/github/last-commit/ramiromagno/covid19_dgs_reports)![pt_badge](pt_badge.svg)
 
 ### About
 
